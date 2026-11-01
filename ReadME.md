@@ -40,6 +40,9 @@ The project combines AI agents, document processing, semantic search, and a web 
 - 🌐 **Web Interface** — Interact with the application through a frontend built with HTML.
 
 <h2 align="center">🎬 Doubt Solver Agent — Live Demo</h2>
+<h3>Live URL:<h3>
+
+**https://quicksolve-1g1f.onrender.com**
 
 <p align="center">
   <img src="live-demo/live-gif.gif" alt="Doubt Solver Agent Demo" width="100%" />
